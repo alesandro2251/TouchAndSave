@@ -1,1 +1,1 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/frsnBSc" data-context="false" ><a href="//imgur.com/a/frsnBSc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/frsnBSc" width="40" height="40" />
