@@ -1,1 +1,2 @@
-<img src="https://imgur.com/a/frsnBSc" width="400" height="600" />
+![Example GIF](gif/436379808_7296721927115689_6874666665521654936_n-ezgif.com-optimize.gif)
+
